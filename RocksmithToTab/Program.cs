@@ -5,7 +5,7 @@ using System.IO;
 using CommandLine;
 using CommandLine.Text;
 using RocksmithToTabLib;
-using RocksmithToolkitLib.Xml;
+using RocksmithToolkitLib.XML;
 
 
 namespace RocksmithToTab
